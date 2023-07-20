@@ -1,5 +1,9 @@
-# AstroCrypto
+# AstroCrypto 
 AstroCrypt is a powerful and versatile tool designed to assist you in both cracking hashed passwords and identifying the hash type used to secure them. This tool provides an all-in-one solution for security professionals and system administrators to manage password-related challenges effectively.
+
+
+![AstroCrypt](https://github.com/Wadee-Haddad/AstroCrypto/assets/117990238/105b3ed0-2efb-467b-9b19-fb4015b2219d)
+
 
 # Features:
 
