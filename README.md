@@ -19,18 +19,18 @@ AstroCrypt is a powerful and versatile tool designed to assist you in both crack
 2) Choose from the following options:
 - Password Hash Cracker: Select this option to crack hashed passwords.
 - Hash Identifier: Select this option to identify the hash type of a given hash value.
--- If you choose "Password Hash Cracker":
--- Select the hash type (e.g., MD5, SHA256) from the drop-down list.
--- Enter the hash value you want to crack in the "Hash" field.
--- Browse and select the password file that contains potential passwords for cracking.
--- Click the "Crack" button to initiate the cracking process.
--- Observe the log section for updates on the cracking progress.
--- Once the tool successfully cracks the password, it will display the cracked password and the corresponding hash.
+- If you choose "Password Hash Cracker":
+- Select the hash type (e.g., MD5, SHA256) from the drop-down list.
+- Enter the hash value you want to crack in the "Hash" field.
+- Browse and select the password file that contains potential passwords for cracking.
+- Click the "Crack" button to initiate the cracking process.
+- Observe the log section for updates on the cracking progress.
+- Once the tool successfully cracks the password, it will display the cracked password and the corresponding hash.
 
--- If you choose "Hash Identifier":
--- Enter the hash value you want to identify in the "Enter the hash value" field.
--- Click the "Identify" button to start the hash identification process.
--- The tool will identify the hash type used and display the results in the log section.
+- If you choose "Hash Identifier":
+- Enter the hash value you want to identify in the "Enter the hash value" field.
+- Click the "Identify" button to start the hash identification process.
+- The tool will identify the hash type used and display the results in the log section.
 
 # Important Notes:
 
