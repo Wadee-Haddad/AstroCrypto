@@ -1,12 +1,12 @@
-# AstroCrypto - Password Hash Cracker and Hash Identifier
-AstroCrypt is a powerful and versatile tool designed to assist you in both cracking hashed passwords and identifying the hash type used to secure them. This tool provides an all-in-one solution for security professionals and system administrators to manage password-related challenges effectively.
+# **AstroCrypto - Password Hash Cracker and Hash Identifier**
+**AstroCrypt is a powerful and versatile tool designed to assist you in both cracking hashed passwords and identifying the hash type used to secure them. This tool provides an all-in-one solution for security professionals and system administrators to manage password-related challenges effectively. 👽🔥**
 
 
 
 ![AstroCrypt](https://github.com/Wadee-Haddad/AstroCrypto/assets/117990238/598bd0ad-3d07-4043-8d99-4831a3441d47)
 
 
-# Features:
+# **Features:**
 
 1) Password Hash Cracker: AstroCrypt supports a wide range of hash types, including MD5, SHA1, SHA224, SHA256, SHA384, and SHA512. With its file-based approach, you can easily load password lists and attempt to crack each password efficiently.
 
@@ -18,10 +18,10 @@ AstroCrypt is a powerful and versatile tool designed to assist you in both crack
 
 5) Secure Hashing: AstroCrypt employs industry-standard cryptographic libraries for secure and accurate hashing and hash identification, ensuring reliable outcomes.
 
-# How to Use:
+# **How to Use:**
 
-1) Launch AstroCrypt.
-2) Choose from the following options:
+- Launch AstroCrypt.
+- Choose from the following options:
 - Password Hash Cracker: Select this option to crack hashed passwords.
 - Hash Identifier: Select this option to identify the hash type of a given hash value.
 - If you choose "Password Hash Cracker":
@@ -37,7 +37,7 @@ AstroCrypt is a powerful and versatile tool designed to assist you in both crack
 - Click the "Identify" button to start the hash identification process.
 - The tool will identify the hash type used and display the results in the log section.
 
-# Important Notes:
+# **Important Notes:**
 
 + Use AstroCrypt responsibly and ethically, ensuring you have proper authorization and permissions to perform password cracking or hash identification.
 + Treat any cracked passwords and sensitive information with the utmost care and confidentiality.
