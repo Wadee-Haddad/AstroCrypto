@@ -38,11 +38,13 @@
 ![AstroCrypt (1)](https://github.com/Wadee-Haddad/AstroCrypto/assets/117990238/4c8e73e1-b818-469a-97f1-3a0130fd2f62)
 
 
-
 - If you choose "Hash Identifier":
 - Enter the hash value you want to identify in the "Enter the hash value" field.
 - Click the "Identify" button to start the hash identification process.
 - The tool will identify the hash type used and display the results in the log section.
+
+![AstroCrypt (2)](https://github.com/Wadee-Haddad/AstroCrypto/assets/117990238/f287e5b5-c0d5-410b-b788-c21a122cf8ae)
+
 
 # **Important Notes:**
 
