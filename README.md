@@ -35,7 +35,8 @@
 - Observe the log section for updates on the cracking progress.
 - Once the tool successfully cracks the password, it will display the cracked password and the corresponding hash.
 
-![AstroCrypt](https://github.com/Wadee-Haddad/AstroCrypto/assets/117990238/5443c2b0-0d73-489f-b308-0fe7bb0c614f)
+![AstroCrypt (1)](https://github.com/Wadee-Haddad/AstroCrypto/assets/117990238/4c8e73e1-b818-469a-97f1-3a0130fd2f62)
+
 
 
 - If you choose "Hash Identifier":
