@@ -18,6 +18,9 @@
 
 5) Secure Hashing: AstroCrypt employs industry-standard cryptographic libraries for secure and accurate hashing and hash identification, ensuring reliable outcomes.
 
+![AstroCrypt](https://github.com/Wadee-Haddad/AstroCrypto/assets/117990238/64d08a3c-7610-453c-a978-a0bc7f5ee891)
+
+
 # **How to Use:**
 
 - Launch AstroCrypt.
