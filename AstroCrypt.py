@@ -26,7 +26,15 @@ class PasswordHashCrackerApp:
             "SHA224",
             "SHA256",
             "SHA384",
-            "SHA512"
+            "SHA512",
+            "sha3_224()",
+            "sha3_256()",
+            "sha3_384()",
+            "sha3_512()",
+            "shake_128()",
+            "shake_256()",
+            "blake2b()",
+            "blake2s()"
         ]
 
         self.create_widgets()
@@ -219,6 +227,14 @@ class ASCIIAnimation:
             hashlib.sha256(),
             hashlib.sha384(),
             hashlib.sha512(),
+            hashlib.sha3_224(),
+            hashlib.sha3_256(),
+            hashlib.sha3_384(),
+            hashlib.sha3_512(),
+            hashlib.shake_128(),
+            hashlib.shake_256(),
+            hashlib.blake2b(),
+            hashlib.blake2s()
         ]
 
         identified_hashes = []
